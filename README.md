@@ -19,7 +19,7 @@ Currently exploring pentesting techniques and cloud security. Passionate about n
 - JavaScript (in progress)
 
 ## 📊 **Languages Usage**:
-![Languages Usage](https://example.com/languages-usage-chart)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shelby10202&layout=compact&theme=dark)
 
 ---
 ⚡ **Fun Fact**: I'm also training to fly the A330 Neo in simulators!
