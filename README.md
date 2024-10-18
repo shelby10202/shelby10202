@@ -19,7 +19,11 @@ Currently exploring pentesting techniques and cloud security. Passionate about n
 - JavaScript (in progress)
 
 ## 📊 **Languages Usage**:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shelby10202&layout=compact&theme=dark)
+![shelby10202's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shelby10202&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 ⚡ **Fun Fact**: I'm also training to fly the A330 Neo in simulators!
+
+![shelby10202's Stats](https://github-readme-stats.vercel.app/api?username=shelby10202&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+
+![shelby10202's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shelby10202&theme=tokyonight&hide_border=false)
