@@ -8,13 +8,18 @@ Currently exploring pentesting techniques and cloud security. Passionate about n
 - 🛡️ Penetration Testing
 - 🌐 Cloud Security
 - 🔒 Ethical Hacking
+- 🔍 Online People Search
 - ✈️ Pilot Simulation (A320)
+- 🐧 Intermediate Linux Experience
 
-## 📫 **Contact Me**:
-- [LinkedIn](www.linkedin.com/in/raphaelidalino)
-- [Email](mailto:raphaelidalino389@gmail.com)
+## 💻 **Languages**:
+- Python
+- CSS
+- HTML
+- JavaScript (in progress)
 
-
+## 📊 **Languages Usage**:
+![Languages Usage](https://example.com/languages-usage-chart)
 
 ---
 ⚡ **Fun Fact**: I'm also training to fly the A330 Neo in simulators!
