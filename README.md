@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello! I'm Idalino 
 
-<!--
-**shelby10202/shelby10202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity enthusiast🚀✈️
 
-Here are some ideas to get you started:
+Currently exploring pentesting techniques and cloud security. Passionate about networking and ethical hacking 🔐.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **Skills**:
+- 🛡️ Penetration Testing
+- 🌐 Cloud Security
+- 🔒 Ethical Hacking
+- ✈️ Pilot Simulation (A320)
+
+## 📫 **Contact Me**:
+- [LinkedIn](www.linkedin.com/in/raphaelidalino)
+- [Email](mailto:raphaelidalino389@gmail.com)
+
+
+
+---
+⚡ **Fun Fact**: I'm also training to fly the A330 Neo in simulators!
